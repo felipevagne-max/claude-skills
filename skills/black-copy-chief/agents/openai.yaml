@@ -1,0 +1,4 @@
+interface:
+  display_name: "Black Copy Chief"
+  short_description: "Orchestrate aggressive, belief-driven direct-response copy"
+  default_prompt: "Use $black-copy-chief to create a psychologically sharp direct-response piece from my product, audience, proof, and offer materials."

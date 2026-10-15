@@ -1,0 +1,11 @@
+# Regras de ads herdadas (project_dominus_criativos_multiplicacao · PACK 2K)
+- Vencedores compartilham o REFRAME no fecho, não o formato. Procurar o reframe antes de multiplicar.
+- Grade em L: coluna = ângulo varia com container fixo; linha = container varia com ângulo fixo. O vencedor é a esquina.
+- Container finge orgânico (print Reddit/WhatsApp/X/YouTube): primeira pessoa, números ímpares datados, métricas sociais baixas, final SEM final feliz.
+- **Esconder o nome do produto** nas peças de container: quem pede o nome é o OUTRO da conversa. Alegação vira percepção ("não sei explicar, mas some").
+- Não comparar peça com nome visível contra peça sem nome — é outra variável.
+- Play Store/loja como container só se o produto ESTÁ na loja (PWA não está). Afirmação verificável que não confere perde o pico de intenção.
+- Pôster épico: objeto único + halo, estátua clássica (zero pele, passa moderação), palavra tabu em destaque, preto+ouro+branco, zero rosto.
+- Rosto humano gerado por IA denuncia; UI composta em cena precisa de tela em branco + warp por perspectiva.
+- Criativo de ângulo aponta direto para a página; genérico passa pelo /go. `utm_content` = nome da peça (nunca sobrescrever); célula vai no `sck`.
+- QA não protege pixel: conferir no Gerenciador de Eventos depois do primeiro dia.

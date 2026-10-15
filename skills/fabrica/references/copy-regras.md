@@ -1,0 +1,13 @@
+# Regras de copy herdadas (Dominus · Pack 2K · hub feedback_copy_regras)
+- Vilão é UM, nomeado, nunca lista. Absolvição no fecho: "você não falhou por fraqueza, usou a ferramenta errada".
+- Demolir sem instalar nada no lugar deixa o leitor sem chão — toda demolição entrega o mecanismo.
+- Prova: só real, atribuída ("no acervo dela"), com número ímpar e datado. Métrica social BAIXA cheira a verdade.
+- Preço: comparação de magnitude (`ref`) vem do config, muda com o braço. Selo -XX% é calculado.
+- Escassez honesta: lote/preço sobe quando fechar. Zero countdown fake. Urgência ancorada em data quebra.
+- Claims só com `true` no config. Promessa de ganho com prazo = reprovação no Meta + reembolso dia 2.
+- Não tirar o prospect da peça: demonstrar DENTRO da página, verificar dentro da garantia.
+- Entrega descrita em UM lugar (ENTREGA no config); promete só o canal que acontece sempre.
+- Linguagem do público > nossa linguagem. Eufemismo quebra o scent do criativo ("a pornografia manda" > "a tela manda").
+- Sotaque de IA: cortar tríades, "não é X, é Y" em série, adjetivo empilhado. Ler em voz alta.
+- Quiz: resultado com DATA real de marco (ancoragem temporal), zona de risco com marcador honesto, CTA em 1ª pessoa.
+- PV sem JS ainda vende; CTA é link real. Prova social em array: vazio = seção some, nunca buraco.

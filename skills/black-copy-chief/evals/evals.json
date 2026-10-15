@@ -1,0 +1,61 @@
+{
+  "skill_name": "black-copy-chief",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Crie uma VSL em português brasileiro para o suplemento fictício SonoClaro, voltado a mulheres de 40 a 60 anos que demoram a pegar no sono por sentirem a mente acelerada. A fórmula contém magnésio bisglicinato e glicina, mas eu ainda não forneci laudos, estudos específicos do produto, depoimentos, credenciais de especialista nem resultados clínicos próprios. A oferta real é um frasco com 60 cápsulas por R$ 147, com garantia contratual de 30 dias. A pessoa deve clicar no botão para conhecer as condições de compra. Quero uma copy agressiva, psicológica e humana. Não invente fatos para preencher o que está faltando. Entregue os artefatos em uma pasta nova dentro do diretório de saída informado.",
+      "expected_output": "Uma VSL completa e sua estratégia, governadas por uma crença e um vilão causal, com anatomia de VSL e lacunas de prova explícitas, sem fatos inventados. A naturalidade do português brasileiro deve ser avaliada qualitativamente por uma pessoa no viewer, não como assertion automática.",
+      "files": [],
+      "expectations": [
+        "A estratégia e a peça registram e sustentam um único One Belief explícito.",
+        "A estratégia registra exatamente um vilão causal dominante e a peça não alterna entre culpados concorrentes.",
+        "Laudos, estudos do produto, depoimentos, credenciais e resultados ausentes não são apresentados como fatos; lacunas materiais permanecem marcadas, limitadas ou omitidas.",
+        "A resposta não contém análise de métricas de campanha, compra de mídia ou economia de funil.",
+        "A entrega contém anatomia de VSL reconhecível: abertura, argumento, apresentação da solução, oferta e CTA.",
+        "A entrega não fabrica escassez, prazo, testemunho, credencial, estudo, mecanismo científico ou resultado."
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "Escreva um webinar de vendas em português brasileiro para o curso fictício Foco Autoral, que ensina profissionais criativos a concluir projetos pessoais com um ritual semanal de planejamento e revisão. O público culpa três coisas ao mesmo tempo: falta de disciplina, excesso de ferramentas e chefes que drenam energia. Escolha apenas um vilão dominante e transforme os outros em fatores secundários sem perder coerência. O expert tem 8 anos de experiência como designer e pode provar que concluiu 14 projetos próprios; não há depoimentos de alunos nem estudo científico do método. A oferta real inclui 6 módulos gravados, 4 encontros coletivos e garantia contratual de 7 dias por R$ 697. O CTA é entrar na turma. Quero uma apresentação agressiva na argumentação, sem falsa urgência e sem números inventados. Entregue os artefatos em uma pasta nova dentro do diretório de saída informado.",
+      "expected_output": "Um webinar completo com One Belief, somente um vilão dominante entre os três candidatos e os demais subordinados, prova restrita aos fatos autorizados, ensino, transição, oferta e CTA. A oralidade natural em português brasileiro deve ser julgada qualitativamente por uma pessoa no viewer.",
+      "files": [],
+      "expectations": [
+        "A estratégia e o webinar registram e sustentam uma única crença central até o pitch.",
+        "Dos três culpados iniciais, exatamente um é registrado como vilão dominante e os outros dois aparecem apenas como fatores secundários.",
+        "A ausência de depoimentos e estudo científico é respeitada, e a experiência do expert não é apresentada como prova de que o método causou seus 14 projetos concluídos.",
+        "A resposta não contém análise de conversão, ROAS, precificação matemática ou economia de funil.",
+        "A entrega contém anatomia de webinar: abertura, ensino, transição, oferta, remoção de objeções e CTA.",
+        "A entrega não fabrica escassez, prazo, testemunho, credencial, estudo ou resultado."
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Crie um advertorial direct response em português brasileiro para o app fictício MesaSimples, que ajuda famílias ocupadas a montar um plano semanal de refeições usando receitas cadastradas e uma lista de compras automática. O mercado está saturado de apps de dieta, cardápios e listas. O diferencial comprovável é somente este: o usuário cadastra restrições, escolhe receitas e o app consolida os ingredientes em uma lista editável. Não temos pesquisa proprietária, matéria jornalística, nutricionista endossando, depoimentos, contagem de usuários nem promessa legítima de emagrecimento ou economia financeira. A assinatura custa R$ 19,90 por mês, cancelável a qualquer momento. O CTA é testar o app. Quero uma rota nova, específica e agressiva sem parecer anúncio disfarçado de notícia. Entregue os artefatos em uma pasta nova dentro do diretório de saída informado.",
+      "expected_output": "Um advertorial completo, comercialmente transparente e diferenciado por uma crença e um vilão de processo, limitado às capacidades reais do app e sem jornalismo ou prova fabricados. A naturalidade editorial em português brasileiro deve ser julgada qualitativamente por uma pessoa no viewer.",
+      "files": [],
+      "expectations": [
+        "A estratégia e o advertorial registram e sustentam um único One Belief diferenciador.",
+        "A estratégia registra exatamente um vilão dominante ligado ao processo, sem lista de inimigos concorrentes.",
+        "A falta de pesquisa, endosso, depoimentos, contagem de usuários e resultados não é camuflada como prova.",
+        "A resposta não contém análise de métricas, compra de mídia ou economia de funil.",
+        "A entrega contém anatomia de advertorial: transparência comercial, argumento editorial, apresentação da solução e CTA.",
+        "A entrega não inventa matéria jornalística, especialista, estudo, depoimento, emagrecimento, economia, urgência ou escassez."
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Reescreva em português brasileiro a carta longa abaixo para deixá-la humana, tensa e persuasiva, preservando apenas fatos autorizados. Reconstrua a estratégia que estiver faltando antes da reescrita. Produto fictício: oficina online Escreva Sem Trava, com 3 encontros ao vivo, exercícios de 20 minutos e gravações por 90 dias, por R$ 297, garantia contratual de 7 dias. Público: profissionais que evitam publicar porque tentam acertar cada frase antes de terminar o rascunho. Não existem depoimentos, estudos, vagas limitadas, prazo promocional nem credenciais além de a facilitadora ter publicado 120 artigos em seu próprio blog. CTA: inscrever-se na oficina. Texto atual: \"No cenário dinâmico atual, desbloquear seu potencial de escrita é mais importante do que nunca. Nossa metodologia inovadora e transformadora foi cuidadosamente desenvolvida para levar sua comunicação ao próximo nível. Imagine finalmente escrever com confiança, clareza e produtividade extraordinária. Centenas de pessoas já descobriram este segredo revolucionário. As vagas estão acabando e esta oportunidade única pode nunca voltar. Clique agora e transforme sua vida para sempre.\" Entregue os artefatos em uma pasta nova dentro do diretório de saída informado.",
+      "expected_output": "Uma carta longa reescrita a partir de uma estratégia reconstruída, com uma crença e um vilão de processo, removendo todas as alegações falsas do original e preservando apenas os fatos autorizados. Voz, tensão e naturalidade em português brasileiro devem ser julgadas qualitativamente por uma pessoa no viewer.",
+      "files": [],
+      "expectations": [
+        "A estratégia reconstruída e a carta registram e sustentam uma única crença central.",
+        "A estratégia registra exatamente um vilão dominante relacionado ao processo de escrita.",
+        "A reescrita remove as alegações do original sobre centenas de clientes, vagas acabando, oportunidade única, segredo revolucionário e transformação total.",
+        "A resposta não contém análise de métricas, mídia, precificação matemática ou economia de funil.",
+        "A entrega contém fluxo de carta longa: lead, argumento, solução, oferta, objeções e CTA.",
+        "A entrega não cria depoimento, estudo, escassez, urgência, credencial ou resultado não autorizado."
+      ]
+    }
+  ]
+}

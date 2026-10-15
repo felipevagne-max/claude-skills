@@ -1,0 +1,82 @@
+[
+  {
+    "query": "Tenho o briefing do meu suplemento para sono em /Users/me/Downloads/brief-sono.md e preciso transformar isso numa VSL longa de resposta direta. Quero uma tese única, pressão emocional forte e marcação explícita de qualquer prova que ainda esteja faltando — sem inventar estudo nem depoimento.",
+    "should_trigger": true
+  },
+  {
+    "query": "vou vender uma mentoria para arquitetos e preciso do roteiro completo do webinar: abertura, ensino que muda a crença, transição e pitch. O público culpa falta de tempo e falta de disciplina; escolhe uma causa dominante e escreve com pegada agressiva, mas verdadeira.",
+    "should_trigger": true
+  },
+  {
+    "query": "Escreva um advertorial para um app de planejamento alimentar que entra num mercado lotado de apps de dieta. Preciso de ângulo novo, mecanismo simples, transparência de que é conteúdo comercial e zero cara de matéria jornalística falsa.",
+    "should_trigger": true
+  },
+  {
+    "query": "quero black copy bruta para essa oferta de curso, sem papo corporativo. Trabalhe medo de continuar parado, identidade e consequência, mas não use vergonha contra o comprador nem crie urgência que eu não tenho.",
+    "should_trigger": true
+  },
+  {
+    "query": "Tenho uma sales letter de 3.800 palavras que está cheia de frases tipo 'desbloqueie seu potencial'. Refaça a arquitetura de crença e reescreva inteira em PT-BR natural, mantendo preço, garantia e provas exatamente como estão no arquivo.",
+    "should_trigger": true
+  },
+  {
+    "query": "Antes de escrever a VSL, quero três rotas criativas completas e não só headlines: uma visceral, uma por mecanismo e uma por história. Todas precisam obedecer ao mesmo One Belief e aos mesmos fatos do produto.",
+    "should_trigger": true
+  },
+  {
+    "query": "Faça uma Kill Room deste roteiro de vendas. Quero três lentes independentes: onde um cético deixa de acreditar, o que deve ser cortado sem piedade e onde a voz denuncia IA. Não reescreva tudo ainda.",
+    "should_trigger": true
+  },
+  {
+    "query": "Preciso construir o argumento longo de uma nova oportunidade para donos de clínica. Tenho VOC qualitativo, mecanismo e oferta, mas a ponte entre a crença atual e a decisão está fraca. Estruture a One Belief e depois escreva a peça.",
+    "should_trigger": true
+  },
+  {
+    "query": "Modele a estrutura persuasiva desta VSL de referência para outro produto sem copiar frases nem usar a referência como fonte factual. Quero manter somente o ritmo do argumento, os loops e a ordem das revelações.",
+    "should_trigger": true
+  },
+  {
+    "query": "Meu lead de direct response explica demais e não cria tensão. Reescreva o long-form completo com big idea, causa raiz, mecanismo, prova autorizada, oferta e fechamento — uma voz só do começo ao fim.",
+    "should_trigger": true
+  },
+  {
+    "query": "Os anúncios da minha VSL estão com CTR de 0,7%, CPA de R$ 190 e ROAS abaixo de 1. Analise a planilha exportada do Meta, diga quais conjuntos pausar e proponha a redistribuição do orçamento diário.",
+    "should_trigger": false
+  },
+  {
+    "query": "Tenho uma VSL pronta e quero montar a campanha no Meta Ads. Defina CBO ou ABO, públicos, janela de atribuição, orçamento de teste e regras automáticas; não preciso que você mexa no texto.",
+    "should_trigger": false
+  },
+  {
+    "query": "Crie o manifesto institucional e três opções de slogan para uma marca premium de cadernos. O tom deve ser calmo, minimalista e inspirador; não é campanha de venda direta e não haverá oferta ou CTA.",
+    "should_trigger": false
+  },
+  {
+    "query": "A copy da landing já está aprovada. Agora desenhe o wireframe desktop/mobile, escolha tipografia e paleta, defina hierarquia visual e entregue o HTML/CSS responsivo.",
+    "should_trigger": false
+  },
+  {
+    "query": "Revise este webinar apenas para corrigir vírgulas, concordância e erros de digitação. Não altere argumentos, voz, ordem dos slides, promessa ou pitch.",
+    "should_trigger": false
+  },
+  {
+    "query": "Calcule o CPA de equilíbrio e o LTV deste funil com produto de R$ 97, order bump de R$ 27, upsell de R$ 197, reembolso de 8% e margem líquida alvo de 30%.",
+    "should_trigger": false
+  },
+  {
+    "query": "A oferta já vende, mas preciso decidir o novo preço. Monte uma análise de margem com imposto, comissão, custo de entrega e três cenários de elasticidade; não escreva copy.",
+    "should_trigger": false
+  },
+  {
+    "query": "Escreva as microcopies neutras do checkout: erro de cartão, CEP inválido, pagamento processando, compra confirmada e recuperação de senha. Máximo de 80 caracteres cada, sem persuasão agressiva.",
+    "should_trigger": false
+  },
+  {
+    "query": "Transforme esta carta de vendas em 12 legendas educativas para Instagram, sem oferta direta, sem promessa e sem CTA de compra. O objetivo é manter presença de marca durante o mês.",
+    "should_trigger": false
+  },
+  {
+    "query": "Faça um artigo SEO informativo de 1.500 palavras sobre estrutura de VSL: definição, exemplos históricos e glossário. É conteúdo de topo de funil e não deve vender nenhum produto.",
+    "should_trigger": false
+  }
+]
